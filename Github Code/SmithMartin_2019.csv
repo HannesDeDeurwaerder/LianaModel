@@ -1,0 +1,565 @@
+Plot ,Treatment,Tag ,Species me,  Habit,Psi_pd,Psi_md,An,gs,WUE,SM,day,month,year,date
+1,unwatereded,1,Doliocarpus major ,lia,-1.693,-4.862,,,,17.2398,3,4,2015,4/3/2015
+1,unwatereded,1,Doliocarpus major ,lia,-2.59,-3.007,,,,17.871,2,3,2015,3/2/2015
+1,unwatereded,1,Doliocarpus major ,lia,-0.464,-1.163,,,,21.816,12,5,2015,5/12/2015
+1,unwatereded,1,Doliocarpus major ,lia,-0.142,-0.732,,,,57.8996,3,9,2015,9/3/2015
+1,unwatereded,4,Paullinia pinta  ,lia,-0.72,-2.264,,,,16.556,11,4,2015,4/11/2015
+1,unwatereded,4,Paullinia pinta  ,lia,-0.286,-2.363,,,,19.2912,2,3,2015,3/2/2015
+1,unwatereded,4,Paullinia pinta  ,lia,-0.521,-1.564,,,,23.4992,12,5,2015,5/12/2015
+1,unwatereded,4,Paullinia pinta  ,lia,-0.17,-1.004,,,,49.431,3,9,2015,9/3/2015
+1,unwatereded,4,Paullinia pinta  ,lia,-0.061,-0.851,15.5,0.385,40.25974026,,13,10,2015,10/13/2015
+1,unwatereded,6,Termilia amazonia  ,tree,-0.681,-2.267,,,,16.03,7,4,2015,4/7/2015
+1,unwatereded,6,Termilia amazonia  ,tree,-0.702,-1.827,,,,20.8692,4,3,2015,3/4/2015
+1,unwatereded,6,Termilia amazonia  ,tree,-0.053,-0.719,,,,27.9702,4,5,2015,5/4/2015
+1,unwatereded,6,Termilia amazonia  ,tree,-0.041,-0.617,,,,54.2176,3,9,2015,9/3/2015
+1,unwatereded,6,Termilia amazonia  ,tree,-0.042,-0.341,12.9,0.472,27.33050847,,13,10,2015,10/13/2015
+1,unwatereded,7,Doliocarpus major ,lia,-2.687,-4.452,,,,18.3444,13,3,2015,3/13/2015
+1,unwatereded,7,Doliocarpus major ,lia,-1.661,-4.942,,,,18.5548,8,4,2015,4/8/2015
+1,unwatereded,7,Doliocarpus major ,lia,-0.485,-1.108,,,,26.55,5,5,2015,5/5/2015
+1,unwatereded,7,Doliocarpus major ,lia,-0.16,-0.629,,,,55.0066,3,9,2015,9/3/2015
+1,unwatereded,7,Doliocarpus major ,lia,-0.082,-0.366,12.9,0.311,41.47909968,,13,10,2015,10/13/2015
+1,unwatereded,14,Swietenia macrophylla ,tree,-0.15,-1.098,14.8,0.312,47.43589744,,13,10,2015,10/13/2015
+1,unwatereded,18,Swietenia macrophylla ,tree,-1.942,-2.839,,,,17.9236,3,3,2015,3/3/2015
+1,unwatereded,18,Swietenia macrophylla ,tree,-3.55,-3.562,,,,18.3444,11,4,2015,4/11/2015
+1,unwatereded,18,Swietenia macrophylla ,tree,-0.544,-1.205,,,,22.6576,9,5,2015,5/9/2015
+1,unwatereded,18,Swietenia macrophylla ,tree,-0.335,-0.573,,,,51.272,3,9,2015,9/3/2015
+1,unwatereded,22,Machaerium milleflorum ,lia,-0.792,-2.045,,,,15.9248,7,4,2015,4/7/2015
+1,unwatereded,22,Machaerium milleflorum ,lia,-0.182,-1.917,,,,16.8716,6,3,2015,3/6/2015
+1,unwatereded,22,Machaerium milleflorum ,lia,-0.345,-1.049,,,,23.8148,5,5,2015,5/5/2015
+1,unwatereded,22,Machaerium milleflorum ,lia,-0.169,-1.401,,,,54.6384,3,9,2015,9/3/2015
+1,unwatereded,23,Callichlamys latifolia  ,lia,-0.257,-0.813,11.4,0.396,28.78787879,,13,10,2015,10/13/2015
+1,unwatereded,25,Maripa pamensis  ,lia,-0.755,-1.595,,,,15.6618,9,3,2015,3/9/2015
+1,unwatereded,25,Maripa pamensis  ,lia,-0.849,-1.391,,,,16.9242,11,4,2015,4/11/2015
+1,unwatereded,25,Maripa pamensis  ,lia,-0.455,-1.042,,,,27.3916,5,5,2015,5/5/2015
+1,unwatereded,25,Maripa pamensis  ,lia,-0.091,-0.899,,,,54.2702,3,9,2015,9/3/2015
+1,unwatereded,41,Hura crepitans  ,tree,-0.238,-0.405,14.4,0.645,22.3255814,,13,10,2015,10/13/2015
+1,unwatereded,44,Crescentia cujete  ,tree,-0.232,-0.81,10.5,0.286,36.71328671,,13,10,2015,10/13/2015
+1,unwatereded,50,Davilla kunthii,lia,-1.364,-2.001,,,,17.2924,8,4,2015,4/8/2015
+1,unwatereded,50,Davilla kunthii,lia,-0.403,-2.213,,,,18.1866,6,3,2015,3/6/2015
+1,unwatereded,50,Davilla kunthii,lia,-0.341,-0.984,,,,19.186,12,5,2015,5/12/2015
+1,unwatereded,50,Davilla kunthii,lia,-0.058,-0.943,,,,46.6958,3,9,2015,9/3/2015
+1,unwatereded,50,Davilla kunthii,lia,-0.098,-0.853,17.7,0.384,46.09375,,13,10,2015,10/13/2015
+1,unwatereded,60,Machaerium milleflorum ,lia,-0.605,-1.677,5.49,0.056,98.03571429,18.134,6,4,2015,4/6/2015
+1,unwatereded,60,Machaerium milleflorum ,lia,-0.702,-2.384,,,,19.9224,7,3,2015,3/7/2015
+1,unwatereded,60,Machaerium milleflorum ,lia,-0.262,-0.873,,,,32.2308,5,5,2015,5/5/2015
+1,unwatereded,60,Machaerium milleflorum ,lia,-0.214,-1.301,,,,54.5332,3,9,2015,9/3/2015
+1,unwatereded,60,Machaerium milleflorum ,lia,-0.085,-0.397,7.38,0.211,34.97630332,,13,10,2015,10/13/2015
+1,unwatereded,61,Termilia amazonia  ,tree,-1.005,-1.975,,,,18.397,4,4,2015,4/4/2015
+1,unwatereded,61,Termilia amazonia  ,tree,-0.966,-1.369,,,,19.712,9,3,2015,3/9/2015
+1,unwatereded,61,Termilia amazonia  ,tree,-0.246,-0.582,,,,23.8674,8,5,2015,5/8/2015
+1,unwatereded,61,Termilia amazonia  ,tree,-0.139,-0.821,,,,52.1136,3,9,2015,9/3/2015
+1,unwatereded,75,Dipteryx oleifera  ,tree,-1.001,-3.638,,,,19.2912,11,4,2015,4/11/2015
+1,unwatereded,75,Dipteryx oleifera  ,tree,-2.345,-3.283,,,,21.9738,7,3,2015,3/7/2015
+1,unwatereded,75,Dipteryx oleifera  ,tree,-0.218,-1.301,,,,26.6552,8,5,2015,5/8/2015
+1,unwatereded,75,Dipteryx oleifera  ,tree,-0.183,-1.262,,,,49.3784,3,9,2015,9/3/2015
+1,unwatereded,75,Dipteryx oleifera  ,tree,-0.075,-0.59,8.94,0.249,35.90361446,,13,10,2015,10/13/2015
+1,unwatereded,82,Maripa pamensis  ,lia,-0.769,-1.869,,,,19.2386,3,4,2015,4/3/2015
+1,unwatereded,82,Maripa pamensis  ,lia,-0.461,-1.8,,,,20.764,11,3,2015,3/11/2015
+1,unwatereded,82,Maripa pamensis  ,lia,-0.467,-1.307,,,,20.9744,8,5,2015,5/8/2015
+1,unwatereded,82,Maripa pamensis  ,lia,-0.182,-1.008,,,,58.11,3,9,2015,9/3/2015
+1,unwatereded,82,Maripa pamensis  ,lia,-0.178,-0.792,13.3,0.341,39.00293255,,13,10,2015,10/13/2015
+1,unwatereded,83,Crescentia cujete  ,tree,-0.262,-0.762,5.36,0.119,45.04201681,,13,10,2015,10/13/2015
+1,unwatereded,92,Dipteryx oleifera  ,tree,-0.595,-2.342,,,,16.6612,3,4,2015,4/3/2015
+1,unwatereded,92,Dipteryx oleifera  ,tree,-3.2,-4.207,,,,18.8178,11,3,2015,3/11/2015
+1,unwatereded,92,Dipteryx oleifera  ,tree,-0.258,-1.606,,,,25.6558,4,5,2015,5/4/2015
+1,unwatereded,92,Dipteryx oleifera  ,tree,-0.257,-1.13,,,,53.6916,3,9,2015,9/3/2015
+1,unwatereded,95,Paullinia pinta  ,lia,-0.994,-1.741,,,,19.0808,10,4,2015,4/10/2015
+1,unwatereded,95,Paullinia pinta  ,lia,-0.401,-1.601,,,,23.2888,4,3,2015,3/4/2015
+1,unwatereded,95,Paullinia pinta  ,lia,-0.45,-1.991,,,,23.2888,11,5,2015,5/11/2015
+1,unwatereded,95,Paullinia pinta  ,lia,-0.122,-1.213,,,,54.2702,3,9,2015,9/3/2015
+1,unwatereded,100,Davilla kunthii,lia,-0.528,-2.34,,,,17.4502,4,3,2015,3/4/2015
+1,unwatereded,100,Davilla kunthii,lia,-1.521,-3.284,,,,21.1322,3,4,2015,4/3/2015
+1,unwatereded,100,Davilla kunthii,lia,-0.212,-1.533,,,,23.394,8,5,2015,5/8/2015
+1,unwatereded,100,Davilla kunthii,lia,-0.022,-1.062,,,,44.9074,3,9,2015,9/3/2015
+4,unwatereded,302,Crescentia cujete  ,tree,-0.74,-1.178,,,,19.6914,3,4,2015,4/3/2015
+4,unwatereded,302,Crescentia cujete  ,tree,-0.953,-1.503,,,,19.9102,2,3,2015,3/2/2015
+4,unwatereded,302,Crescentia cujete  ,tree,-0.491,-1.247,,,,27.6776,12,5,2015,5/12/2015
+4,unwatereded,302,Crescentia cujete  ,tree,-0.054,-1.188,,,,56.0122,3,9,2015,9/3/2015
+4,unwatereded,306,Callichlamys latifolia  ,lia,-0.297,-1.524,,,,21.5512,9,3,2015,3/9/2015
+4,unwatereded,306,Callichlamys latifolia  ,lia,-0.282,-0.972,,,,21.77,8,4,2015,4/8/2015
+4,unwatereded,306,Callichlamys latifolia  ,lia,-0.543,-1.841,6.86,0.0435,157.7011494,21.77,14,3,2016,3/14/2016
+4,unwatereded,306,Callichlamys latifolia  ,lia,-0.251,-0.451,,,,28.8263,8,5,2015,5/8/2015
+4,unwatereded,306,Callichlamys latifolia  ,lia,-0.207,-1.888,,,,52.949,4,9,2015,9/4/2015
+4,unwatereded,306,Callichlamys latifolia  ,lia,-0.246,-1.238,13.8,0.38,36.31578947,,13,10,2015,10/13/2015
+4,unwatereded,313,Swietenia macrophylla ,tree,-1.003,-2.512,,,,22.6452,11,4,2015,4/11/2015
+4,unwatereded,313,Swietenia macrophylla ,tree,-1.334,-2.904,,,,23.1375,13,3,2015,3/13/2015
+4,unwatereded,313,Swietenia macrophylla ,tree,-0.764,-0.942,,,,30.3032,11,5,2015,5/11/2015
+4,unwatereded,313,Swietenia macrophylla ,tree,-0.318,-0.439,,,,50.214,3,9,2015,9/3/2015
+4,unwatereded,318,Doliocarpus major ,lia,-2.182,-3.15,,,,23.3016,4,4,2015,4/4/2015
+4,unwatereded,318,Doliocarpus major ,lia,-1,-3.463,,,,23.958,9,3,2015,3/9/2015
+4,unwatereded,318,Doliocarpus major ,lia,-0.372,-3.444,2.72,0.0222,122.5225225,24.0674,14,3,2016,3/14/2016
+4,unwatereded,318,Doliocarpus major ,lia,-0.22,-1.087,,,,27.2947,8,5,2015,5/8/2015
+4,unwatereded,318,Doliocarpus major ,lia,-0.144,-1.717,,,,56.5592,3,9,2015,9/3/2015
+4,unwatereded,318,Doliocarpus major ,lia,-0.232,-0.662,7.36,0.361,20.38781163,,13,10,2015,10/13/2015
+4,unwatereded,319,Termilia amazonia  ,tree,-2.173,-3.208,,,,20.676,13,3,2015,3/13/2015
+4,unwatereded,319,Termilia amazonia  ,tree,-2.416,-3.211,,,,21.0589,10,4,2015,4/10/2015
+4,unwatereded,319,Termilia amazonia  ,tree,-1.163,-2.866,3.37,0.0166,203.0120482,22.9734,14,3,2016,3/14/2016
+4,unwatereded,319,Termilia amazonia  ,tree,-0.321,-1.274,,,,31.5066,6,5,2015,5/6/2015
+4,unwatereded,319,Termilia amazonia  ,tree,-0.313,-1.26,,,,48.7371,3,9,2015,9/3/2015
+4,unwatereded,319,Termilia amazonia  ,tree,-0.146,-1.171,7.25,0.172,42.15116279,,13,10,2015,10/13/2015
+4,unwatereded,320,Davilla kunthii,lia,-0.632,-1.581,,,,21.7153,10,4,2015,4/10/2015
+4,unwatereded,320,Davilla kunthii,lia,-0.161,-3.178,7.51,0.0773,97.15394567,21.8794,14,3,2016,3/14/2016
+4,unwatereded,320,Davilla kunthii,lia,-0.098,-1.002,,,,32.3818,4,5,2015,5/4/2015
+4,unwatereded,320,Davilla kunthii,lia,-0.782,-1.922,,,,33.804,11,3,2015,3/11/2015
+4,unwatereded,320,Davilla kunthii,lia,-0.192,-0.972,,,,53.2772,3,9,2015,9/3/2015
+4,unwatereded,320,Davilla kunthii,lia,-0.073,-0.533,15.7,0.312,50.32051282,,13,10,2015,10/13/2015
+4,unwatereded,324,Dipteryx oleifera  ,tree,-1.68,-3.781,5.37,0.0657,81.73515982,19.9102,14,3,2016,3/14/2016
+4,unwatereded,324,Dipteryx oleifera  ,tree,-1.597,-3.9,,,,22.317,3,3,2015,3/3/2015
+4,unwatereded,324,Dipteryx oleifera  ,tree,-2.716,-3.042,,,,22.6452,4,4,2015,4/4/2015
+4,unwatereded,324,Dipteryx oleifera  ,tree,-0.277,-0.604,,,,31.069,6,5,2015,5/6/2015
+4,unwatereded,324,Dipteryx oleifera  ,tree,-0.39,-0.489,,,,46.8773,3,9,2015,9/3/2015
+4,unwatereded,324,Dipteryx oleifera  ,tree,-0.129,-1.573,8.65,0.187,46.25668449,,13,10,2015,10/13/2015
+4,unwatereded,329,Doliocarpus major ,lia,-3.26,-3.622,,,,23.0828,7,4,2015,4/7/2015
+4,unwatereded,329,Doliocarpus major ,lia,-1.102,-3.801,,,,23.958,11,3,2015,3/11/2015
+4,unwatereded,329,Doliocarpus major ,lia,-0.145,-0.967,,,,30.7408,5,5,2015,5/5/2015
+4,unwatereded,329,Doliocarpus major ,lia,-0.11,-0.502,,,,44.197,3,9,2015,9/3/2015
+4,unwatereded,330,Davilla kunthii,lia,-2.203,-2.752,5.67,0.0274,206.9343066,21.4965,6,4,2015,4/6/2015
+4,unwatereded,330,Davilla kunthii,lia,-1.868,-2.231,,,,21.77,13,3,2015,3/13/2015
+4,unwatereded,330,Davilla kunthii,lia,-0.294,-1.186,,,,32.2724,6,5,2015,5/6/2015
+4,unwatereded,330,Davilla kunthii,lia,-0.098,-0.787,,,,55.684,3,9,2015,9/3/2015
+4,unwatereded,349,Crescentia cujete  ,tree,-1.769,-2.879,2.17,0.0123,176.4227642,21.4418,14,3,2016,3/14/2016
+4,unwatereded,349,Crescentia cujete  ,tree,-1.767,-3.007,,,,21.4965,9,3,2015,3/9/2015
+4,unwatereded,349,Crescentia cujete  ,tree,-1.572,-1.831,,,,23.6298,4,4,2015,4/4/2015
+4,unwatereded,349,Crescentia cujete  ,tree,-0.625,-1.263,,,,30.3032,11,5,2015,5/11/2015
+4,unwatereded,349,Crescentia cujete  ,tree,-0.389,-1.485,,,,53.9883,3,9,2015,9/3/2015
+4,unwatereded,349,Crescentia cujete  ,tree,-0.118,-1.716,9.28,0.195,47.58974359,,13,10,2015,10/13/2015
+4,unwatereded,358,Termilia amazonia  ,tree,-1.3,-2,,,,22.7546,13,4,2015,4/13/2015
+4,unwatereded,358,Termilia amazonia  ,tree,-1.374,-2.144,,,,24.7238,7,3,2015,3/7/2015
+4,unwatereded,358,Termilia amazonia  ,tree,-0.26,-0.737,,,,29.975,5,5,2015,5/5/2015
+4,unwatereded,358,Termilia amazonia  ,tree,-0.344,-1.358,,,,52.6208,3,9,2015,9/3/2015
+4,unwatereded,359,Machaerium milleflorum ,lia,-0.426,-2.65,12.5,0.157,79.61783439,20.2384,14,3,2016,3/14/2016
+4,unwatereded,359,Machaerium milleflorum ,lia,-0.633,-1.202,,,,21.223,7,4,2015,4/7/2015
+4,unwatereded,359,Machaerium milleflorum ,lia,-0.156,-1.802,,,,21.3324,2,3,2015,3/2/2015
+4,unwatereded,359,Machaerium milleflorum ,lia,-0.395,-0.432,,,,28.1699,9,5,2015,5/9/2015
+4,unwatereded,359,Machaerium milleflorum ,lia,-0.318,-1.443,,,,53.2772,3,9,2015,9/3/2015
+4,unwatereded,359,Machaerium milleflorum ,lia,-0.213,-1.024,18.1,0.446,40.58295964,,13,10,2015,10/13/2015
+4,unwatereded,363,Paullinia pinta  ,lia,-0.628,-2.394,,,,21.5512,13,3,2015,3/13/2015
+4,unwatereded,363,Paullinia pinta  ,lia,-0.685,-1.654,,,,26.5836,3,4,2015,4/3/2015
+4,unwatereded,363,Paullinia pinta  ,lia,-0.155,-1.723,,,,31.5066,4,5,2015,5/4/2015
+4,unwatereded,363,Paullinia pinta  ,lia,-0.329,-0.893,,,,56.6139,3,9,2015,9/3/2015
+4,unwatereded,382,Dipteryx oleifera  ,tree,-1.87,-4.107,,,,19.2538,8,4,2015,4/8/2015
+4,unwatereded,382,Dipteryx oleifera  ,tree,-0.782,-0.93,,,,22.6452,2,3,2015,3/2/2015
+4,unwatereded,382,Dipteryx oleifera  ,tree,-0.431,-0.792,,,,23.3016,11,5,2015,5/11/2015
+4,unwatereded,382,Dipteryx oleifera  ,tree,-0.099,-1.432,,,,49.8858,3,9,2015,9/3/2015
+4,unwatereded,383,Maripa pamensis  ,lia,-0.202,-1.582,,,,21.0042,4,3,2015,3/4/2015
+4,unwatereded,383,Maripa pamensis  ,lia,-0.922,-1.554,,,,22.2076,7,4,2015,4/7/2015
+4,unwatereded,383,Maripa pamensis  ,lia,-0.301,-1.001,,,,27.7323,9,5,2015,5/9/2015
+4,unwatereded,383,Maripa pamensis  ,lia,-0.125,-1.391,,,,57.6532,3,9,2015,9/3/2015
+4,unwatereded,385,Maripa pamensis  ,lia,-0.513,-1.864,,,,19.2538,13,3,2015,3/13/2015
+4,unwatereded,385,Maripa pamensis  ,lia,-0.58,-1.222,,,,19.8008,11,4,2015,4/11/2015
+4,unwatereded,385,Maripa pamensis  ,lia,-0.731,-1.409,2.18,0.0004,5450,22.317,14,3,2016,3/14/2016
+4,unwatereded,385,Maripa pamensis  ,lia,-0.125,-0.574,,,,26.2007,5,5,2015,5/5/2015
+4,unwatereded,385,Maripa pamensis  ,lia,-0.065,-1.256,,,,59.5677,3,9,2015,9/3/2015
+4,unwatereded,385,Maripa pamensis  ,lia,-0.154,-1.594,11.6,0.289,40.1384083,,13,10,2015,10/13/2015
+4,unwatereded,388,Swietenia macrophylla ,tree,-2.87,-4.932,,,,19.8008,8,4,2015,4/8/2015
+4,unwatereded,388,Swietenia macrophylla ,tree,-2.34,-3.689,1.48,0.122,12.13114754,20.3478,14,3,2016,3/14/2016
+4,unwatereded,388,Swietenia macrophylla ,tree,-1.635,-1.689,,,,24.0674,4,3,2015,3/4/2015
+4,unwatereded,388,Swietenia macrophylla ,tree,-0.643,-1.643,,,,27.24,12,5,2015,5/12/2015
+4,unwatereded,388,Swietenia macrophylla ,tree,-0.47,-0.698,,,,51.5268,3,9,2015,9/3/2015
+4,unwatereded,388,Swietenia macrophylla ,tree,-0.254,-0.763,12,0.281,42.70462633,,13,10,2015,10/13/2015
+4,unwatereded,389,Paullinia pinta  ,lia,-0.652,-2.383,,,,21.3871,13,4,2015,4/13/2015
+4,unwatereded,389,Paullinia pinta  ,lia,-0.972,-2.336,,,,23.2469,9,3,2015,3/9/2015
+4,unwatereded,389,Paullinia pinta  ,lia,-0.5,-2.173,3.37,0.00487,691.9917864,25.8178,14,3,2016,3/14/2016
+4,unwatereded,389,Paullinia pinta  ,lia,-0.381,-1.232,,,,27.0212,9,5,2015,5/9/2015
+4,unwatereded,389,Paullinia pinta  ,lia,-0.489,-2.146,,,,52.949,3,9,2015,9/3/2015
+4,unwatereded,389,Paullinia pinta  ,lia,-0.585,-0.905,13.1,0.296,44.25675676,,13,10,2015,10/13/2015
+4,unwatereded,394,Callichlamys latifolia  ,lia,-0.574,-1.558,,,,21.223,2,3,2015,3/2/2015
+4,unwatereded,394,Callichlamys latifolia  ,lia,-0.325,-1.921,2.95,0.0226,130.5309735,21.4418,6,4,2015,4/6/2015
+4,unwatereded,394,Callichlamys latifolia  ,lia,-0.225,-1.177,,,,29.428,6,5,2015,5/6/2015
+4,unwatereded,394,Callichlamys latifolia  ,lia,-0.197,-1.46,,,,52.6208,3,9,2015,9/3/2015
+4,unwatereded,397,Machaerium milleflorum ,lia,-0.643,-1.759,,,,19.6914,13,4,2015,4/13/2015
+4,unwatereded,397,Machaerium milleflorum ,lia,-0.825,-2.106,,,,20.0196,11,3,2015,3/11/2015
+4,unwatereded,397,Machaerium milleflorum ,lia,-0.431,-0.548,,,,24.0674,12,5,2015,5/12/2015
+4,unwatereded,397,Machaerium milleflorum ,lia,-0.133,-1.335,,,,56.8874,3,9,2015,9/3/2015
+4,unwatereded,400,Hura crepitans  ,tree,-0.672,-1.152,,,,19.2538,4,4,2015,4/4/2015
+4,unwatereded,400,Hura crepitans  ,tree,-0.406,-0.702,,,,21.0042,2,3,2015,3/2/2015
+4,unwatereded,400,Hura crepitans  ,tree,-0.57,-1.308,4.22,0.0265,159.245283,21.1683,14,3,2016,3/14/2016
+4,unwatereded,400,Hura crepitans  ,tree,-0.69,-1.208,,,,21.4965,9,5,2015,5/9/2015
+4,unwatereded,400,Hura crepitans  ,tree,-0.288,-0.752,,,,59.7318,3,9,2015,9/3/2015
+4,unwatereded,400,Hura crepitans  ,tree,-0.325,-0.661,17.9,0.545,32.8440367,,13,10,2015,10/13/2015
+5,unwatereded,401,Termilia amazonia  ,tree,-2.221,-2.234,,,,19.2376,8,4,2015,4/8/2015
+5,unwatereded,401,Termilia amazonia  ,tree,-2.104,-2.576,,,,20.1792,2,3,2015,3/2/2015
+5,unwatereded,401,Termilia amazonia  ,tree,-0.56,-1.185,,,,21.4204,11,5,2015,5/11/2015
+5,unwatereded,401,Termilia amazonia  ,tree,-0.131,-1.012,,,,37.5988,4,9,2015,9/4/2015
+5,unwatereded,402,Davilla kunthii,lia,-1.456,-2.771,,,,19.0664,2,3,2015,3/2/2015
+5,unwatereded,402,Davilla kunthii,lia,-2.892,-3.675,2.96,0.0147,201.3605442,20.1792,6,4,2015,4/6/2015
+5,unwatereded,402,Davilla kunthii,lia,-1.056,-1.136,,,,24.0312,11,5,2015,5/11/2015
+5,unwatereded,402,Davilla kunthii,lia,-0.14,-1.742,,,,39.5248,4,9,2015,9/4/2015
+5,unwatereded,404,Hura crepitans  ,tree,-0.911,-1.66,3.8,0.017,223.5294118,19.152,14,3,2016,3/14/2016
+5,unwatereded,404,Hura crepitans  ,tree,-0.209,-0.704,8.16,0.245,33.30612245,,14,10,2015,10/14/2015
+5,unwatereded,407,Doliocarpus major ,lia,-0.912,-1.552,,,,19.1092,11,4,2015,4/11/2015
+5,unwatereded,407,Doliocarpus major ,lia,-0.391,-0.817,,,,20.7784,11,5,2015,5/11/2015
+5,unwatereded,407,Doliocarpus major ,lia,-1.796,-2.998,,,,21.8056,2,3,2015,3/2/2015
+5,unwatereded,407,Doliocarpus major ,lia,-0.084,-1.872,,,,34.3888,4,9,2015,9/4/2015
+5,unwatereded,408,Swietenia macrophylla ,tree,-1.102,-1.104,,,,19.3232,7,4,2015,4/7/2015
+5,unwatereded,408,Swietenia macrophylla ,tree,-1.628,-2.974,,,,20.1792,2,3,2015,3/2/2015
+5,unwatereded,408,Swietenia macrophylla ,tree,-0.864,-0.981,,,,21.4204,12,5,2015,5/12/2015
+5,unwatereded,408,Swietenia macrophylla ,tree,-0.517,-2.351,,,,34.7312,4,9,2015,9/4/2015
+5,unwatereded,414,Machaerium milleflorum ,lia,-0.784,-1.874,,,,17.6968,11,3,2015,3/11/2015
+5,unwatereded,414,Machaerium milleflorum ,lia,-0.442,-1.276,,,,19.6656,8,4,2015,4/8/2015
+5,unwatereded,414,Machaerium milleflorum ,lia,-0.224,-0.415,,,,25.358,6,5,2015,5/6/2015
+5,unwatereded,414,Machaerium milleflorum ,lia,-0.052,-1.612,,,,34.4744,4,9,2015,9/4/2015
+5,unwatereded,420,Maripa pamensis  ,lia,-1.001,-1.447,,,,18.4672,11,4,2015,4/11/2015
+5,unwatereded,420,Maripa pamensis  ,lia,-0.497,-1.685,,,,21.292,2,3,2015,3/2/2015
+5,unwatereded,420,Maripa pamensis  ,lia,-0.387,-1.835,,,,31.4784,4,5,2015,5/4/2015
+5,unwatereded,420,Maripa pamensis  ,lia,-0.213,-1.452,,,,43.2056,4,9,2015,9/4/2015
+5,unwatereded,422,Davilla kunthii,lia,-1.458,-3.033,,,,18.1248,13,3,2015,3/13/2015
+5,unwatereded,422,Davilla kunthii,lia,-0.306,-2.604,6.41,0.0461,139.0455531,19.2804,14,3,2016,3/14/2016
+5,unwatereded,422,Davilla kunthii,lia,-0.513,-2.393,,,,21.6772,14,4,2015,4/14/2015
+5,unwatereded,422,Davilla kunthii,lia,-0.498,-0.792,,,,22.6616,12,5,2015,5/12/2015
+5,unwatereded,422,Davilla kunthii,lia,-0.15,-1.367,,,,34.7312,4,9,2015,9/4/2015
+5,unwatereded,422,Davilla kunthii,lia,-0.068,-0.712,13,0.257,50.58365759,,14,10,2015,10/14/2015
+5,unwatereded,427,Dipteryx oleifera  ,tree,-0.974,-3.001,4.91,0.0489,100.408998,19.2376,14,3,2016,3/14/2016
+5,unwatereded,427,Dipteryx oleifera  ,tree,-0.068,-0.977,9.78,0.183,53.44262295,,14,10,2015,10/14/2015
+5,unwatereded,436,Doliocarpus major ,lia,-0.98,-0.983,,,,17.9536,11,4,2015,4/11/2015
+5,unwatereded,436,Doliocarpus major ,lia,-0.58,-3.19,3.87,0.0307,126.0586319,19.4088,14,3,2016,3/14/2016
+5,unwatereded,436,Doliocarpus major ,lia,-2.072,-2.705,,,,20.7784,6,3,2015,3/6/2015
+5,unwatereded,436,Doliocarpus major ,lia,-0.176,-1.146,,,,23.9028,8,5,2015,5/8/2015
+5,unwatereded,436,Doliocarpus major ,lia,-0.078,-1.582,,,,36.0152,4,9,2015,9/4/2015
+5,unwatereded,436,Doliocarpus major ,lia,-0.131,-0.829,10.5,0.344,30.52325581,,14,10,2015,10/14/2015
+5,unwatereded,452,Crescentia cujete  ,tree,-0.979,-2.034,,,,18.8096,10,4,2015,4/10/2015
+5,unwatereded,452,Crescentia cujete  ,tree,-0.65,-1.718,,,,19.8368,2,3,2015,3/2/2015
+5,unwatereded,452,Crescentia cujete  ,tree,-0.202,-1.128,,,,27.1128,4,5,2015,5/4/2015
+5,unwatereded,452,Crescentia cujete  ,tree,-0.209,-1.527,,,,32.6768,4,9,2015,9/4/2015
+5,unwatereded,459,Termilia amazonia  ,tree,-1.161,-2.037,,,,18.0392,8,4,2015,4/8/2015
+5,unwatereded,459,Termilia amazonia  ,tree,-0.354,-2.039,5.43,0.0376,144.4148936,18.2104,14,3,2016,3/14/2016
+5,unwatereded,459,Termilia amazonia  ,tree,-0.411,-2.293,,,,18.6384,11,3,2015,3/11/2015
+5,unwatereded,459,Termilia amazonia  ,tree,-0.289,-0.854,,,,21.506,8,5,2015,5/8/2015
+5,unwatereded,459,Termilia amazonia  ,tree,-0.072,-1.741,,,,34.3888,4,9,2015,9/4/2015
+5,unwatereded,459,Termilia amazonia  ,tree,-0.12,-1.057,10.2,0.249,40.96385542,,14,10,2015,10/14/2015
+5,unwatereded,463,Maripa pamensis  ,lia,-1.022,-1.901,3.77,0.0317,118.9274448,18.2104,14,3,2016,3/14/2016
+5,unwatereded,463,Maripa pamensis  ,lia,-1.479,-1.984,,,,19.366,13,4,2015,4/13/2015
+5,unwatereded,463,Maripa pamensis  ,lia,-1.068,-1.858,,,,19.7512,4,3,2015,3/4/2015
+5,unwatereded,463,Maripa pamensis  ,lia,-0.424,-1.196,,,,22.4904,9,5,2015,5/9/2015
+5,unwatereded,463,Maripa pamensis  ,lia,-0.096,-2.153,,,,33.1476,4,9,2015,9/4/2015
+5,unwatereded,463,Maripa pamensis  ,lia,-0.068,-0.9,10.3,0.214,48.13084112,,14,10,2015,10/14/2015
+5,unwatereded,466,Paullinia pinta  ,lia,-0.699,-3.332,3.29,0.0264,124.6212121,17.868,14,3,2016,3/14/2016
+5,unwatereded,466,Paullinia pinta  ,lia,-0.413,-0.804,8.29,0.122,67.95081967,,14,10,2015,10/14/2015
+5,unwatereded,471,Swietenia macrophylla ,tree,-1.111,-2.623,,,,19.2376,11,4,2015,4/11/2015
+5,unwatereded,471,Swietenia macrophylla ,tree,-0.766,-2.315,,,,20.864,4,3,2015,3/4/2015
+5,unwatereded,471,Swietenia macrophylla ,tree,-1.07,-1.795,,,,21.1208,11,5,2015,5/11/2015
+5,unwatereded,471,Swietenia macrophylla ,tree,-0.191,-3.113,,,,37.7272,4,9,2015,9/4/2015
+5,unwatereded,473,Swietenia macrophylla ,tree,-1.609,-2.602,,,,17.0548,6,3,2015,3/6/2015
+5,unwatereded,473,Swietenia macrophylla ,tree,-1.131,-1.902,,,,18.5528,11,4,2015,4/11/2015
+5,unwatereded,473,Swietenia macrophylla ,tree,-0.712,-1.408,,,,22.2336,11,5,2015,5/11/2015
+5,unwatereded,473,Swietenia macrophylla ,tree,-0.127,-2.724,,,,36.4004,4,9,2015,9/4/2015
+5,unwatereded,480,Callichlamys latifolia  ,lia,-0.56,-1.929,2.4,0.0168,142.8571429,19.366,14,3,2016,3/14/2016
+5,unwatereded,480,Callichlamys latifolia  ,lia,-0.201,-1.193,8.64,0.205,42.14634146,,14,10,2015,10/14/2015
+5,unwatereded,483,Machaerium milleflorum ,lia,-1.05,-1.9,8.65,0.25,34.6,17.868,6,4,2015,4/6/2015
+5,unwatereded,483,Machaerium milleflorum ,lia,-0.311,-0.589,12.6,0.146,86.30136986,18.724,14,3,2016,3/14/2016
+5,unwatereded,483,Machaerium milleflorum ,lia,-0.442,-0.859,,,,23.9028,9,3,2015,3/9/2015
+5,unwatereded,483,Machaerium milleflorum ,lia,-0.261,-0.375,,,,28.568,6,5,2015,5/6/2015
+5,unwatereded,483,Machaerium milleflorum ,lia,-0.23,-0.518,,,,40.124,4,9,2015,9/4/2015
+5,unwatereded,483,Machaerium milleflorum ,lia,-0.176,-0.59,18.9,0.331,57.09969789,,14,10,2015,10/14/2015
+5,unwatereded,491,Crescentia cujete  ,tree,-0.925,-1.159,,,,16.9264,10,4,2015,4/10/2015
+5,unwatereded,491,Crescentia cujete  ,tree,-0.416,-2.509,2.57,0.0495,51.91919192,18.3388,14,3,2016,3/14/2016
+5,unwatereded,491,Crescentia cujete  ,tree,-0.272,-1.059,,,,21.72,3,3,2015,3/3/2015
+5,unwatereded,491,Crescentia cujete  ,tree,-0.392,-1.586,,,,21.7628,8,5,2015,5/8/2015
+5,unwatereded,491,Crescentia cujete  ,tree,-0.293,-1.472,,,,33.4044,4,9,2015,9/4/2015
+5,unwatereded,491,Crescentia cujete  ,tree,-0.168,-1.201,10.1,0.0918,110.0217865,,14,10,2015,10/14/2015
+7,unwatereded,602,Swietenia macrophylla ,tree,-1.262,-2.601,,,,19.0376,13,3,2015,3/13/2015
+7,unwatereded,602,Swietenia macrophylla ,tree,-0.891,-2.439,,,,20.0976,4,4,2015,4/4/2015
+7,unwatereded,602,Swietenia macrophylla ,tree,-1.133,-2.905,7.12,0.0736,96.73913043,20.564,15,3,2016,3/15/2016
+7,unwatereded,602,Swietenia macrophylla ,tree,-0.449,-1.553,,,,24.8464,9,5,2015,5/9/2015
+7,unwatereded,602,Swietenia macrophylla ,tree,-0.313,-2.726,,,,40.1528,4,9,2015,9/4/2015
+7,unwatereded,602,Swietenia macrophylla ,tree,-0.376,-1.028,10.2,0.201,50.74626866,,14,10,2015,10/14/2015
+7,unwatereded,603,Paullinia pinta  ,lia,-0.572,-2.087,,,,20.0552,3,3,2015,3/3/2015
+7,unwatereded,603,Paullinia pinta  ,lia,-0.801,-1.106,,,,20.5216,8,4,2015,4/8/2015
+7,unwatereded,603,Paullinia pinta  ,lia,-0.791,-2.478,4.71,0.0292,161.3013699,21.4968,15,3,2016,3/15/2016
+7,unwatereded,603,Paullinia pinta  ,lia,-0.18,-1.76,,,,30.9944,5,5,2015,5/5/2015
+7,unwatereded,603,Paullinia pinta  ,lia,-0.257,-1.697,,,,37.2696,4,9,2015,9/4/2015
+7,unwatereded,603,Paullinia pinta  ,lia,-0.145,-1.639,10.8,0.226,47.78761062,,14,10,2015,10/14/2015
+7,unwatereded,605,Termilia amazonia  ,tree,-1.283,-2.422,,,,20.14,3,4,2015,4/3/2015
+7,unwatereded,605,Termilia amazonia  ,tree,-0.483,-2.192,,,,20.2672,3,3,2015,3/3/2015
+7,unwatereded,605,Termilia amazonia  ,tree,-0.271,-1.114,,,,22.2176,12,5,2015,5/12/2015
+7,unwatereded,605,Termilia amazonia  ,tree,-0.173,-1.329,,,,39.0504,4,9,2015,9/4/2015
+7,unwatereded,608,Termilia amazonia  ,tree,-0.93,-2.107,,,,18.7408,13,3,2015,3/13/2015
+7,unwatereded,608,Termilia amazonia  ,tree,-1.051,-1.054,,,,18.9528,11,4,2015,4/11/2015
+7,unwatereded,608,Termilia amazonia  ,tree,-0.875,-1.904,5.21,0.035,148.8571429,19.1648,15,3,2016,3/15/2016
+7,unwatereded,608,Termilia amazonia  ,tree,-0.111,-1.091,,,,22.9384,9,5,2015,5/9/2015
+7,unwatereded,608,Termilia amazonia  ,tree,-0.128,-1.289,,,,33.4536,4,9,2015,9/4/2015
+7,unwatereded,608,Termilia amazonia  ,tree,-0.161,-1.058,11.1,0.33,33.63636364,,14,10,2015,10/14/2015
+7,unwatereded,616,Swietenia macrophylla ,tree,-1.172,-2.4,,,,21.3272,3,4,2015,4/3/2015
+7,unwatereded,616,Swietenia macrophylla ,tree,-0.882,-2.301,,,,21.4968,7,3,2015,3/7/2015
+7,unwatereded,616,Swietenia macrophylla ,tree,-0.197,-1.483,,,,28.2808,6,5,2015,5/6/2015
+7,unwatereded,616,Swietenia macrophylla ,tree,-0.194,-1.649,,,,35.6584,4,9,2015,9/4/2015
+7,unwatereded,624,Doliocarpus major ,lia,-2.372,-4.07,,,,19.6312,10,4,2015,4/10/2015
+7,unwatereded,624,Doliocarpus major ,lia,-1.422,-3.32,,,,20.0552,7,3,2015,3/7/2015
+7,unwatereded,624,Doliocarpus major ,lia,-2.877,-3.621,3.74,0.0325,115.0769231,20.7336,15,3,2016,3/15/2016
+7,unwatereded,624,Doliocarpus major ,lia,-0.296,-1.367,,,,24.0408,9,5,2015,5/9/2015
+7,unwatereded,624,Doliocarpus major ,lia,-0.315,-2.017,,,,41.8488,4,9,2015,9/4/2015
+7,unwatereded,624,Doliocarpus major ,lia,-0.306,-1.301,13.7,0.325,42.15384615,,14,10,2015,10/14/2015
+7,unwatereded,628,Davilla kunthii,lia,-0.245,-2.719,,,,17.2568,2,3,2015,3/2/2015
+7,unwatereded,628,Davilla kunthii,lia,-0.64,-2.217,4.17,0.0214,194.8598131,20.2248,15,3,2016,3/15/2016
+7,unwatereded,628,Davilla kunthii,lia,-0.701,-2.415,,,,20.3096,4,4,2015,4/4/2015
+7,unwatereded,628,Davilla kunthii,lia,-0.382,-1.917,,,,24.2952,6,5,2015,5/6/2015
+7,unwatereded,628,Davilla kunthii,lia,-0.061,-0.878,,,,39.22,4,9,2015,9/4/2015
+7,unwatereded,628,Davilla kunthii,lia,-0.068,-1.573,13.8,0.422,32.7014218,,14,10,2015,10/14/2015
+7,unwatereded,633,Dipteryx oleifera  ,tree,-2.817,-4.209,,,,19.292,7,4,2015,4/7/2015
+7,unwatereded,633,Dipteryx oleifera  ,tree,-0.955,-1.012,7.32,0.0413,177.2397094,19.8856,15,3,2016,3/15/2016
+7,unwatereded,633,Dipteryx oleifera  ,tree,-0.701,-3.36,,,,20.3096,4,3,2015,3/4/2015
+7,unwatereded,633,Dipteryx oleifera  ,tree,-0.252,-1.044,,,,26.6696,5,5,2015,5/5/2015
+7,unwatereded,633,Dipteryx oleifera  ,tree,-0.309,-0.711,,,,37.1848,4,9,2015,9/4/2015
+7,unwatereded,633,Dipteryx oleifera  ,tree,-0.114,-1.284,9.65,0.228,42.3245614,,14,10,2015,10/14/2015
+7,unwatereded,650,Maripa pamensis  ,lia,-1.812,-2.248,,,,18.6984,13,4,2015,4/13/2015
+7,unwatereded,650,Maripa pamensis  ,lia,-1.001,-2.351,,,,19.8856,6,3,2015,3/6/2015
+7,unwatereded,650,Maripa pamensis  ,lia,-1.068,-1.531,8.16,0.053,153.9622642,19.9704,15,3,2016,3/15/2016
+7,unwatereded,650,Maripa pamensis  ,lia,-0.501,-1.302,,,,20.3096,12,5,2015,5/12/2015
+7,unwatereded,650,Maripa pamensis  ,lia,-0.167,-1.406,,,,35.9976,4,9,2015,9/4/2015
+7,unwatereded,650,Maripa pamensis  ,lia,-0.125,-1.328,13.9,0.218,63.76146789,,14,10,2015,10/14/2015
+7,unwatereded,668,Hieronyma alchorneoides,tree,-1.011,-2.06,2.88,0.00669,430.4932735,19.716,15,3,2016,3/15/2016
+7,unwatereded,668,Hieronyma alchorneoides,tree,-1.842,-2.229,,,,21.6664,2,3,2015,3/2/2015
+7,unwatereded,668,Hieronyma alchorneoides,tree,-2.872,-2.889,,,,22.1752,4,4,2015,4/4/2015
+7,unwatereded,668,Hieronyma alchorneoides,tree,-0.34,-1.154,,,,26.7544,4,5,2015,5/4/2015
+7,unwatereded,668,Hieronyma alchorneoides,tree,-0.236,-1.235,,,,36.676,4,9,2015,9/4/2015
+7,unwatereded,668,Hieronyma alchorneoides,lia,-0.18,-1.151,16.2,0.297,54.54545455,,14,10,2015,10/14/2015
+7,unwatereded,670,Machaerium milleflorum ,lia,-0.417,-1.691,,,,19.5888,13,4,2015,4/13/2015
+7,unwatereded,670,Machaerium milleflorum ,lia,-0.378,-1.553,13.8,0.179,77.09497207,20.7336,15,3,2016,3/15/2016
+7,unwatereded,670,Machaerium milleflorum ,lia,-0.196,-1.521,,,,22.9808,9,5,2015,5/9/2015
+7,unwatereded,670,Machaerium milleflorum ,lia,-0.28,-1.517,,,,39.0928,4,9,2015,9/4/2015
+7,unwatereded,670,Machaerium milleflorum ,lia,-0.792,-0.881,,,,42.9936,7,3,2015,3/7/2015
+7,unwatereded,670,Machaerium milleflorum ,lia,-0.251,-0.35,10.5,0.191,54.97382199,,14,10,2015,10/14/2015
+7,unwatereded,673,Callichlamys latifolia  ,lia,-0.4,-1.903,,,,19.9704,4,3,2015,3/4/2015
+7,unwatereded,673,Callichlamys latifolia  ,lia,-0.163,-2.062,12.4,0.154,80.51948052,20.564,15,3,2016,3/15/2016
+7,unwatereded,673,Callichlamys latifolia  ,lia,-0.375,-1.061,,,,20.8184,7,4,2015,4/7/2015
+7,unwatereded,673,Callichlamys latifolia  ,lia,-0.25,-1.111,,,,25.3128,5,5,2015,5/5/2015
+7,unwatereded,673,Callichlamys latifolia  ,lia,-0.094,-1.767,,,,40.4496,4,9,2015,9/4/2015
+7,unwatereded,673,Callichlamys latifolia  ,lia,-0.191,-0.612,7.75,0.065,119.2307692,,14,10,2015,10/14/2015
+7,unwatereded,679,Maripa pamensis  ,lia,-1.884,-2.107,,,,20.3944,11,3,2015,3/11/2015
+7,unwatereded,679,Maripa pamensis  ,lia,-0.921,-1.103,,,,24.9312,11,5,2015,5/11/2015
+7,unwatereded,679,Maripa pamensis  ,lia,-0.205,-1.429,,,,43.2056,4,9,2015,9/4/2015
+7,unwatereded,682,Crescentia cujete  ,tree,-0.851,-1.882,,,,18.2744,8,4,2015,4/8/2015
+7,unwatereded,682,Crescentia cujete  ,tree,-0.781,-2.083,10.1,0.129,78.29457364,19.1648,15,3,2016,3/15/2016
+7,unwatereded,682,Crescentia cujete  ,tree,-0.731,-1.547,,,,20.564,6,3,2015,3/6/2015
+7,unwatereded,682,Crescentia cujete  ,tree,-0.61,-1.482,,,,22.5992,12,5,2015,5/12/2015
+7,unwatereded,682,Crescentia cujete  ,tree,-0.681,-1.371,,,,34.98,4,9,2015,9/4/2015
+7,unwatereded,682,Crescentia cujete  ,tree,-0.234,-1.176,8.87,0.0635,139.6850394,,14,10,2015,10/14/2015
+7,unwatereded,685,Doliocarpus major ,lia,-1.14,-2.203,,,,19.8856,13,4,2015,4/13/2015
+7,unwatereded,685,Doliocarpus major ,lia,-0.212,-1.435,,,,22.1752,9,5,2015,5/9/2015
+7,unwatereded,685,Doliocarpus major ,lia,-1.271,-2.373,,,,24.2528,11,3,2015,3/11/2015
+7,unwatereded,685,Doliocarpus major ,lia,-0.057,-2.166,,,,36.9304,4,9,2015,9/4/2015
+7,unwatereded,686,Paullinia pinta  ,lia,-1.098,-2.653,,,,21.1576,11,3,2015,3/11/2015
+7,unwatereded,686,Paullinia pinta  ,lia,-0.725,-1.934,,,,21.5816,14,4,2015,4/14/2015
+7,unwatereded,686,Paullinia pinta  ,lia,-0.498,-0.792,,,,23.1928,12,5,2015,5/12/2015
+7,unwatereded,686,Paullinia pinta  ,lia,-0.178,-1.699,,,,35.7432,4,9,2015,9/4/2015
+7,unwatereded,691,Callichlamys latifolia  ,lia,-1.301,-1.841,,,,18.2744,7,3,2015,3/7/2015
+7,unwatereded,691,Callichlamys latifolia  ,lia,-0.332,-2.235,,,,18.868,10,4,2015,4/10/2015
+7,unwatereded,691,Callichlamys latifolia  ,lia,-0.117,-0.443,,,,24.7192,4,5,2015,5/4/2015
+7,unwatereded,691,Callichlamys latifolia  ,lia,-0.206,-1.709,,,,33.1992,4,9,2015,9/4/2015
+7,unwatereded,693,Hura crepitans  ,tree,-0.305,-0.473,17.6,0.265,66.41509434,,14,10,2015,10/14/2015
+7,unwatereded,693,Hura crepitans  ,tree,,,,,,,15,3,2016,3/15/2016
+7,unwatereded,696,Machaerium milleflorum ,lia,-0.39,-0.391,,,,18.1896,10,4,2015,4/10/2015
+7,unwatereded,696,Machaerium milleflorum ,lia,-0.511,-1.781,,,,19.5464,9,3,2015,3/9/2015
+7,unwatereded,696,Machaerium milleflorum ,lia,-0.221,-0.52,,,,23.108,8,5,2015,5/8/2015
+7,unwatereded,696,Machaerium milleflorum ,lia,-0.25,-0.938,,,,39.1776,4,9,2015,9/4/2015
+7,unwatereded,699,Davilla kunthii,lia,-0.635,-2.247,,,,19.1224,11,4,2015,4/11/2015
+7,unwatereded,699,Davilla kunthii,lia,-0.196,-1.435,,,,21.0728,6,3,2015,3/6/2015
+7,unwatereded,699,Davilla kunthii,lia,-0.41,-0.831,,,,23.108,5,5,2015,5/5/2015
+7,unwatereded,699,Davilla kunthii,lia,-0.104,-1.426,,,,33.1568,4,9,2015,9/4/2015
+10,unwatereded,904,Callichlamys latifolia  ,lia,-0.537,-1.389,,,,20.5848,6,3,2015,3/6/2015
+10,unwatereded,904,Callichlamys latifolia  ,lia,-0.388,-1.688,,,,25.602,3,4,2015,4/3/2015
+10,unwatereded,904,Callichlamys latifolia  ,lia,-0.427,-1.463,,,,26.49,9,5,2015,5/9/2015
+10,unwatereded,904,Callichlamys latifolia  ,lia,-0.118,-0.938,,,,47.7132,7,9,2015,9/7/2015
+10,unwatereded,904,Callichlamys latifolia  ,lia,-0.191,-1.418,14.1,0.266,53.0075188,,16,10,2015,10/16/2015
+10,unwatereded,912,Davilla kunthii,lia,-0.351,-2.102,4.11,0.0683,60.17569546,21.0732,15,3,2016,3/15/2016
+10,unwatereded,912,Davilla kunthii,lia,-0.671,-2.234,,,,21.7392,13,4,2015,4/13/2015
+10,unwatereded,912,Davilla kunthii,lia,-0.591,-2.179,,,,22.7604,9,3,2015,3/9/2015
+10,unwatereded,912,Davilla kunthii,lia,-0.148,-1.802,,,,26.9784,5,5,2015,5/5/2015
+10,unwatereded,912,Davilla kunthii,lia,-0.062,-1.135,,,,45.3156,7,9,2015,9/7/2015
+10,unwatereded,912,Davilla kunthii,lia,-0.125,-1.141,18.1,0.2,90.5,,16,10,2015,10/16/2015
+10,unwatereded,916,Doliocarpus major ,lia,-0.736,-1.451,,,,20.6292,10,4,2015,4/10/2015
+10,unwatereded,916,Doliocarpus major ,lia,-0.67,-1.409,1.36,0.0336,40.47619048,20.94,15,3,2016,3/15/2016
+10,unwatereded,916,Doliocarpus major ,lia,-1.153,-2.537,,,,22.272,13,3,2015,3/13/2015
+10,unwatereded,916,Doliocarpus major ,lia,-0.436,-1.207,,,,26.0904,6,5,2015,5/6/2015
+10,unwatereded,916,Doliocarpus major ,lia,-0.04,-1.431,,,,42.252,7,9,2015,9/7/2015
+10,unwatereded,916,Doliocarpus major ,lia,-0.307,-1.187,12.9,0.177,72.88135593,,16,10,2015,10/16/2015
+10,unwatereded,920,Doliocarpus major ,lia,-0.622,-1.801,,,,21.9168,14,4,2016,4/14/2016
+10,unwatereded,920,Doliocarpus major ,lia,-0.459,-1.561,,,,22.1832,6,3,2015,3/6/2015
+10,unwatereded,920,Doliocarpus major ,lia,-0.469,-1.47,,,,32.8836,4,5,2015,5/4/2015
+10,unwatereded,920,Doliocarpus major ,lia,-0.05,-1.113,,,,48.6456,7,9,2015,9/7/2015
+10,unwatereded,938,Swietenia macrophylla ,tree,-1.092,-2.616,0.345,0.0317,10.88328076,20.2296,15,3,2016,3/15/2016
+10,unwatereded,938,Swietenia macrophylla ,tree,-0.987,-2.409,,,,21.6504,11,3,2015,3/11/2015
+10,unwatereded,938,Swietenia macrophylla ,tree,-1.401,-2.282,,,,22.8048,6,4,2015,4/6/2015
+10,unwatereded,938,Swietenia macrophylla ,tree,-0.344,-1.843,,,,30.6192,4,5,2015,5/4/2015
+10,unwatereded,938,Swietenia macrophylla ,tree,-0.066,-2.042,,,,43.4952,7,9,2015,9/7/2015
+10,unwatereded,938,Swietenia macrophylla ,tree,-0.302,-2.378,7.83,0.123,63.65853659,,16,10,2015,10/16/2015
+10,unwatereded,944,Hieronyma alchorneoides,tree,-1.282,-1.762,,,,20.496,3,4,2015,4/3/2015
+10,unwatereded,944,Hieronyma alchorneoides,tree,-1.566,-1.948,7.71,0.0655,117.7099237,21.8724,15,3,2016,3/15/2016
+10,unwatereded,944,Hieronyma alchorneoides,tree,-0.666,-1.443,,,,22.2276,4,3,2015,3/4/2015
+10,unwatereded,944,Hieronyma alchorneoides,tree,-0.47,-1.701,,,,27.156,8,5,2015,5/8/2015
+10,unwatereded,944,Hieronyma alchorneoides,tree,-0.07,-1.009,,,,49.0896,7,9,2015,9/7/2015
+10,unwatereded,944,Hieronyma alchorneoides,tree,-0.114,-1.1,9.74,0.157,62.03821656,,16,10,2015,10/16/2015
+10,unwatereded,950,Davilla kunthii,lia,-0.883,-2.18,,,,20.1408,7,4,2015,4/7/2015
+10,unwatereded,950,Davilla kunthii,lia,-0.712,-1.79,,,,22.8936,7,3,2015,3/7/2015
+10,unwatereded,950,Davilla kunthii,lia,-0.142,-1.993,,,,23.7816,8,5,2015,5/8/2015
+10,unwatereded,950,Davilla kunthii,lia,-0.069,-1.862,,,,44.9604,7,9,2015,9/7/2015
+10,unwatereded,960,Machaerium milleflorum ,lia,-0.7,-1.796,,,,20.3184,11,4,2015,4/11/2015
+10,unwatereded,960,Machaerium milleflorum ,lia,-0.308,-1.603,,,,20.4072,3,3,2015,3/3/2015
+10,unwatereded,960,Machaerium milleflorum ,lia,-0.521,-1.691,,,,24.2256,11,5,2015,5/11/2015
+10,unwatereded,960,Machaerium milleflorum ,lia,-0.049,-1.092,,,,42.2076,7,9,2015,9/7/2015
+10,unwatereded,962,Dipteryx oleifera  ,tree,-1.924,-3.469,,,,19.5192,10,4,2015,4/10/2015
+10,unwatereded,962,Dipteryx oleifera  ,tree,-0.972,-3.665,,,,20.1408,9,3,2015,3/9/2015
+10,unwatereded,962,Dipteryx oleifera  ,tree,-0.351,-2.339,,,,24.4032,11,5,2015,5/11/2015
+10,unwatereded,962,Dipteryx oleifera  ,tree,-0.117,-0.949,,,,42.8736,7,9,2015,9/7/2015
+10,unwatereded,962,Dipteryx oleifera  ,tree,-0.101,-1.323,7.45,0.137,54.37956204,,16,10,2015,10/16/2015
+10,unwatereded,962,Dipteryx oleifera  ,tree,,,,,,,15,3,2016,3/15/2016
+10,unwatereded,966,Maripa pamensis  ,lia,-0.362,-1.7,,,,20.5848,6,4,2015,4/6/2015
+10,unwatereded,966,Maripa pamensis  ,lia,-0.781,-1.409,7.43,0.0445,166.9662921,21.9168,15,3,2015,3/15/2015
+10,unwatereded,966,Maripa pamensis  ,lia,-0.401,-1.671,,,,25.4688,9,5,2015,5/9/2015
+10,unwatereded,966,Maripa pamensis  ,lia,-0.498,-1.827,,,,25.5576,3,3,2015,3/3/2015
+10,unwatereded,966,Maripa pamensis  ,lia,-0.106,-1.341,,,,49.0452,7,9,2015,9/7/2015
+10,unwatereded,966,Maripa pamensis  ,lia,-0.146,-1.481,16.4,0.207,79.22705314,,16,10,2015,10/16/2015
+10,unwatereded,967,Paullinia pinta  ,lia,-0.575,-2.334,,,,20.6292,9,3,2015,3/9/2015
+10,unwatereded,967,Paullinia pinta  ,lia,-0.984,-1.481,,,,21.2952,7,4,2015,4/7/2015
+10,unwatereded,967,Paullinia pinta  ,lia,-0.72,-2.545,16.2,0.163,99.38650307,21.3396,15,3,2016,3/15/2016
+10,unwatereded,967,Paullinia pinta  ,lia,-0.342,-2.233,,,,29.376,6,5,2015,5/6/2015
+10,unwatereded,967,Paullinia pinta  ,lia,-0.329,-1.15,,,,44.25,7,9,2015,9/7/2015
+10,unwatereded,967,Paullinia pinta  ,lia,-0.185,-1.768,19.1,0.352,54.26136364,,16,10,2015,10/16/2015
+10,unwatereded,968,Crescentia cujete  ,tree,-1.062,-2.194,,,,20.718,6,4,2015,4/6/2015
+10,unwatereded,968,Crescentia cujete  ,tree,-0.69,-2.219,14.9,0.167,89.22155689,21.0288,15,3,2016,3/15/2016
+10,unwatereded,968,Crescentia cujete  ,tree,-0.664,-2.033,,,,21.828,11,3,2015,3/11/2015
+10,unwatereded,968,Crescentia cujete  ,tree,-0.203,-1.891,,,,28.8876,9,5,2015,5/9/2015
+10,unwatereded,968,Crescentia cujete  ,tree,-0.141,-0.935,,,,49.5336,7,9,2015,9/7/2015
+10,unwatereded,968,Crescentia cujete  ,tree,-0.322,-1.013,10.3,0.0636,161.9496855,,16,10,2015,10/16/2015
+10,unwatereded,969,Machaerium milleflorum ,lia,-0.294,-1.753,,,,23.1156,3,3,2015,3/3/2015
+10,unwatereded,969,Machaerium milleflorum ,lia,-0.669,-1.782,,,,24.8028,3,4,2015,4/3/2015
+10,unwatereded,969,Machaerium milleflorum ,lia,-0.238,-0.566,,,,29.9088,4,5,2015,5/4/2015
+10,unwatereded,969,Machaerium milleflorum ,lia,-0.117,-1.467,,,,48.7344,7,9,2015,9/7/2015
+10,unwatereded,971,Callichlamys latifolia  ,lia,-0.591,-0.736,14.1,0.159,88.67924528,21.1176,15,3,2016,3/15/2016
+10,unwatereded,971,Callichlamys latifolia  ,lia,-0.109,-1.48,,,,21.4728,3,3,2015,3/3/2015
+10,unwatereded,971,Callichlamys latifolia  ,lia,-0.334,-1.202,,,,21.7392,11,5,2015,5/11/2015
+10,unwatereded,971,Callichlamys latifolia  ,lia,-0.167,-1.902,,,,22.3608,4,4,2015,4/4/2015
+10,unwatereded,971,Callichlamys latifolia  ,lia,-0.173,-0.774,,,,47.6688,7,9,2015,9/7/2015
+10,unwatereded,971,Callichlamys latifolia  ,lia,-0.116,-0.775,6.62,0.0304,217.7631579,,16,10,2015,10/16/2015
+10,unwatereded,975,Hura crepitans  ,tree,-0.814,-1.582,,,,20.7624,7,4,2015,4/7/2015
+10,unwatereded,975,Hura crepitans  ,tree,-0.724,-0.913,,,,21.1176,3,3,2015,3/3/2015
+10,unwatereded,975,Hura crepitans  ,tree,-0.328,-0.481,,,,44.4276,7,9,2015,9/7/2015
+10,unwatereded,978,Hura crepitans  ,tree,-0.853,-1.151,,,,19.7412,7,3,2015,3/7/2015
+10,unwatereded,978,Hura crepitans  ,tree,-0.917,-1.251,,,,21.3396,3,4,2015,4/3/2015
+10,unwatereded,978,Hura crepitans  ,tree,-0.602,-0.893,,,,22.0056,8,5,2015,5/8/2015
+10,unwatereded,978,Hura crepitans  ,tree,-0.269,-0.426,,,,38.256,7,9,2015,9/7/2015
+10,unwatereded,978,Hura crepitans  ,tree,-0.493,-0.857,14.4,0.352,40.90909091,,16,10,2015,10/16/2015
+10,unwatereded,978,Hura crepitans  ,tree,,,,,,,15,3,2016,3/15/2016
+10,unwatereded,985,Termilia amazonia  ,tree,-0.585,-2.182,,,,18.8976,6,3,2015,3/6/2015
+10,unwatereded,985,Termilia amazonia  ,tree,-1.485,-2.19,,,,18.9864,6,4,2015,4/6/2015
+10,unwatereded,985,Termilia amazonia  ,tree,-0.947,-1.563,12.2,0.0626,194.8881789,22.05,15,3,2016,3/15/2016
+10,unwatereded,985,Termilia amazonia  ,tree,-0.265,-1.442,,,,31.0632,5,5,2015,5/5/2015
+10,unwatereded,985,Termilia amazonia  ,tree,-0.095,-1.612,,,,39.0552,7,9,2015,9/7/2015
+10,unwatereded,985,Termilia amazonia  ,tree,-0.167,-1.68,11.9,0.103,115.5339806,,16,10,2015,10/16/2015
+10,unwatereded,993,Crescentia cujete  ,tree,-0.687,-1.674,,,,20.9844,7,3,2015,3/7/2015
+10,unwatereded,993,Crescentia cujete  ,tree,-0.646,-2.004,,,,21.2952,10,4,2015,4/10/2015
+10,unwatereded,993,Crescentia cujete  ,tree,-0.178,-1.402,,,,31.9956,5,5,2015,5/5/2015
+10,unwatereded,993,Crescentia cujete  ,tree,-0.093,-1.38,,,,42.696,7,9,2015,9/7/2015
+10,unwatereded,999,Termilia amazonia  ,tree,-1.007,-1.763,,,,18.1872,11,4,2015,4/11/2015
+10,unwatereded,999,Termilia amazonia  ,tree,-0.498,-1.666,,,,20.8956,3,3,2015,3/3/2015
+10,unwatereded,999,Termilia amazonia  ,tree,-0.381,-1.344,,,,23.1156,9,5,2015,5/9/2015
+10,unwatereded,999,Termilia amazonia  ,tree,-0.095,-1.051,,,,40.6536,7,9,2015,9/7/2015
+12,unwatereded,1101,Termilia amazonia  ,tree,-0.629,-0.932,8.96,0.0748,119.7860963,16.0112,16,3,2016,3/16/2016
+12,unwatereded,1101,Termilia amazonia  ,tree,-0.203,-1.841,,,,16.8244,11,3,2015,3/11/2015
+12,unwatereded,1101,Termilia amazonia  ,tree,-0.225,-1.902,,,,17.4236,13,4,2015,4/13/2015
+12,unwatereded,1101,Termilia amazonia  ,tree,-0.202,-1.158,,,,22.0888,6,5,2015,5/6/2015
+12,unwatereded,1101,Termilia amazonia  ,tree,-0.165,-1.276,,,,36.9832,8,9,2015,9/8/2015
+12,unwatereded,1101,Termilia amazonia  ,tree,-0.206,-1.332,14.1,0.31,45.48387097,,17,10,2015,10/17/2015
+12,unwatereded,1102,Maripa pamensis  ,lia,-0.344,-1.601,,,,15.6688,10,4,2015,4/10/2015
+12,unwatereded,1102,Maripa pamensis  ,lia,-0.127,-2.008,,,,18.2796,4,3,2015,3/4/2015
+12,unwatereded,1102,Maripa pamensis  ,lia,-0.271,-1.611,,,,22.6024,8,5,2015,5/8/2015
+12,unwatereded,1102,Maripa pamensis  ,lia,-0.119,-1.502,,,,45.372,8,9,2015,9/8/2015
+12,unwatereded,1107,Davilla kunthii,lia,-0.238,-1.261,17.2,0.22,78.18181818,17.98,16,3,2016,3/16/2016
+12,unwatereded,1107,Davilla kunthii,lia,-0.731,-2.309,,,,18.5792,11,4,2015,4/11/2015
+12,unwatereded,1107,Davilla kunthii,lia,-0.541,-2.229,,,,19.5208,3,3,2015,3/3/2015
+12,unwatereded,1107,Davilla kunthii,lia,-0.196,-1.322,,,,20.2484,11,5,2015,5/11/2015
+12,unwatereded,1107,Davilla kunthii,lia,-0.02,-1.41,,,,35.1856,8,9,2015,9/8/2015
+12,unwatereded,1107,Davilla kunthii,lia,-0.098,-1.371,13.8,0.246,56.09756098,,17,10,2015,10/17/2015
+12,unwatereded,1110,Hura crepitans  ,tree,-0.896,-1.035,,,,16.268,8,4,2015,4/8/2015
+12,unwatereded,1110,Hura crepitans  ,tree,-0.451,-1.45,,,,16.4392,4,3,2015,3/4/2015
+12,unwatereded,1110,Hura crepitans  ,tree,-0.462,-1.657,11.7,0.259,45.17374517,17.3808,16,3,2016,3/16/2016
+12,unwatereded,1110,Hura crepitans  ,tree,-0.481,-0.902,,,,24.6568,5,5,2015,5/5/2015
+12,unwatereded,1110,Hura crepitans  ,tree,-0.41,-0.604,,,,40.4928,8,9,2015,9/8/2015
+12,unwatereded,1110,Hura crepitans  ,tree,-0.334,-1.257,10.7,0.286,37.41258741,,17,10,2015,10/17/2015
+12,unwatereded,1111,Doliocarpus major ,lia,-0.845,-1.785,,,,18.1512,7,4,2015,4/7/2015
+12,unwatereded,1111,Doliocarpus major ,lia,-0.392,-1.601,,,,19.5208,3,3,2015,3/3/2015
+12,unwatereded,1111,Doliocarpus major ,lia,-0.087,-1.195,,,,22.688,6,5,2015,5/6/2015
+12,unwatereded,1111,Doliocarpus major ,lia,-0.021,-1.103,,,,41.4344,8,9,2015,9/8/2015
+12,unwatereded,1122,Crescentia cujete  ,tree,-0.148,-2.003,,,,19.3496,4,3,2015,3/4/2015
+12,unwatereded,1122,Crescentia cujete  ,tree,-0.301,-1.501,,,,26.3688,6,5,2015,5/6/2015
+12,unwatereded,1122,Crescentia cujete  ,tree,-0.105,-1.424,,,,33.1312,8,9,2015,9/8/2015
+12,unwatereded,1122,Crescentia cujete  ,tree,,,,,,,7,4,2015,4/7/2015
+12,unwatereded,1130,Davilla kunthii,lia,-0.245,-1.863,,,,16.6104,13,4,2015,4/13/2015
+12,unwatereded,1130,Davilla kunthii,lia,-0.197,-2.501,,,,18.408,4,3,2015,3/4/2015
+12,unwatereded,1130,Davilla kunthii,lia,-0.812,-2.463,,,,23.5868,9,5,2015,5/9/2015
+12,unwatereded,1130,Davilla kunthii,lia,-0.039,-0.736,,,,39.5084,8,9,2015,9/8/2015
+12,unwatereded,1131,Crescentia cujete  ,tree,-0.561,-1.401,6.07,0.0992,61.18951613,16.696,16,3,2016,3/16/2016
+12,unwatereded,1131,Crescentia cujete  ,tree,-0.081,-1.241,11.1,0.315,35.23809524,,17,10,2015,10/17/2015
+12,unwatereded,1136,Paullinia pinta  ,lia,-0.501,-2.002,5.02,0.0581,86.40275387,16.5248,16,3,2016,3/16/2016
+12,unwatereded,1136,Paullinia pinta  ,lia,-0.842,-2.398,,,,17.6376,13,4,2015,4/13/2015
+12,unwatereded,1136,Paullinia pinta  ,lia,-0.449,-2.043,,,,18.2796,6,3,2015,3/6/2015
+12,unwatereded,1136,Paullinia pinta  ,lia,-0.33,-2.273,,,,25.8124,6,5,2015,5/6/2015
+12,unwatereded,1136,Paullinia pinta  ,lia,-0.116,-1.692,,,,44.8584,8,9,2015,9/8/2015
+12,unwatereded,1136,Paullinia pinta  ,lia,-0.078,-1.511,8.35,0.278,30.03597122,,17,10,2015,10/17/2015
+12,unwatereded,1141,Dipteryx oleifera  ,tree,-0.219,-2.801,,,,16.0112,13,3,2015,3/13/2015
+12,unwatereded,1141,Dipteryx oleifera  ,tree,-2.097,-3.572,,,,18.5364,6,4,2015,4/6/2015
+12,unwatereded,1141,Dipteryx oleifera  ,tree,-0.367,-0.88,,,,19.0928,12,5,2015,5/12/2015
+12,unwatereded,1141,Dipteryx oleifera  ,tree,-0.154,-0.602,,,,35.528,8,9,2015,9/8/2015
+12,unwatereded,1143,Machaerium milleflorum ,lia,-0.439,-1.804,,,,16.0112,13,3,2015,3/13/2015
+12,unwatereded,1143,Machaerium milleflorum ,lia,-0.55,-1.981,15.1,0.238,63.44537815,18.7932,16,3,2016,3/16/2016
+12,unwatereded,1143,Machaerium milleflorum ,lia,-0.448,-1.653,,,,19.264,4,4,2015,4/4/2015
+12,unwatereded,1143,Machaerium milleflorum ,lia,-0.251,-1.808,,,,24.9992,4,5,2015,5/4/2015
+12,unwatereded,1143,Machaerium milleflorum ,lia,-0.198,-0.874,,,,41.3916,8,9,2015,9/8/2015
+12,unwatereded,1143,Machaerium milleflorum ,lia,-0.224,-1.474,10.1,0.131,77.09923664,,17,10,2015,10/17/2015
+12,unwatereded,1150,Hura crepitans  ,tree,-1.003,-1.291,,,,16.0968,6,4,2015,4/6/2015
+12,unwatereded,1150,Hura crepitans  ,tree,-1.031,-1.38,,,,18.6648,6,3,2015,3/6/2015
+12,unwatereded,1150,Hura crepitans  ,tree,-0.443,-1.152,,,,29.0224,4,5,2015,5/4/2015
+12,unwatereded,1150,Hura crepitans  ,tree,-0.173,-0.901,,,,40.4072,8,9,2015,9/8/2015
+12,unwatereded,1151,Doliocarpus major ,lia,-0.314,-1.531,11.7,0.145,80.68965517,16.482,16,3,2016,3/16/2016
+12,unwatereded,1151,Doliocarpus major ,lia,-1.491,-1.621,,,,16.7816,6,4,2015,4/6/2015
+12,unwatereded,1151,Doliocarpus major ,lia,-0.237,-1.882,,,,17.7232,4,3,2015,3/4/2015
+12,unwatereded,1151,Doliocarpus major ,lia,-0.311,-1.454,,,,23.972,4,5,2015,5/4/2015
+12,unwatereded,1151,Doliocarpus major ,lia,-0.091,-0.515,,,,44.088,8,9,2015,9/8/2015
+12,unwatereded,1151,Doliocarpus major ,lia,-0.181,-1.459,11.2,0.228,49.12280702,,17,10,2015,10/17/2015
+12,unwatereded,1168,Crescentia cujete  ,tree,-0.244,-1.421,2.16,0.045,48,,17,10,2015,10/17/2015
+12,unwatereded,1179,Hieronyma alchorneoides,tree,-1.02,-1.767,,,,16.91,7,4,2015,4/7/2015
+12,unwatereded,1179,Hieronyma alchorneoides,tree,-1.508,-1.852,,,,17.3808,6,3,2015,3/6/2015
+12,unwatereded,1179,Hieronyma alchorneoides,tree,-0.502,-1.206,,,,26.6256,5,5,2015,5/5/2015
+12,unwatereded,1179,Hieronyma alchorneoides,tree,-0.359,-1.176,,,,38.2244,8,9,2015,9/8/2015
+12,unwatereded,1180,Paullinia pinta  ,lia,-0.649,-2.423,,,,18.5364,7,3,2015,3/7/2015
+12,unwatereded,1180,Paullinia pinta  ,lia,-1.292,-2.1,,,,18.7504,6,4,2015,4/6/2015
+12,unwatereded,1180,Paullinia pinta  ,lia,-0.268,-1.582,,,,20.5052,8,5,2015,5/8/2015
+12,unwatereded,1180,Paullinia pinta  ,lia,-0.173,-0.782,,,,35.9132,8,9,2015,9/8/2015
+12,unwatereded,1184,Swietenia macrophylla ,tree,-1.088,-1.88,4.54,0.0484,93.80165289,15.8828,16,3,2016,3/16/2016
+12,unwatereded,1184,Swietenia macrophylla ,tree,-1.23,-2.51,,,,16.696,13,4,2015,4/13/2015
+12,unwatereded,1184,Swietenia macrophylla ,tree,-1.173,-2.879,,,,17.7232,11,3,2015,3/11/2015
+12,unwatereded,1184,Swietenia macrophylla ,tree,-0.532,-2.212,,,,21.7464,8,5,2015,5/8/2015
+12,unwatereded,1184,Swietenia macrophylla ,tree,-0.191,-0.197,,,,35.6992,8,9,2015,9/8/2015
+12,unwatereded,1184,Swietenia macrophylla ,tree,-0.212,-1.361,6.22,0.0953,65.26757608,,17,10,2015,10/17/2015
+12,unwatereded,1186,Dipteryx oleifera  ,tree,-2.036,-3.078,,,,16.696,10,4,2015,4/10/2015
+12,unwatereded,1186,Dipteryx oleifera  ,tree,,,6.16,0.0464,132.7586207,17.4236,16,3,2016,3/16/2016
+12,unwatereded,1186,Dipteryx oleifera  ,tree,-1.632,-3.003,,,,18.836,6,3,2015,3/6/2015
+12,unwatereded,1186,Dipteryx oleifera  ,tree,-0.383,-1.503,,,,20.8904,9,5,2015,5/9/2015
+12,unwatereded,1186,Dipteryx oleifera  ,tree,-0.134,-0.8,,,,38.8664,8,9,2015,9/8/2015
+12,unwatereded,1186,Dipteryx oleifera  ,tree,-0.168,-1.728,7.85,0.15,52.33333333,,17,10,2015,10/17/2015
+12,unwatereded,1187,Termilia amazonia  ,tree,-1.725,-2.127,,,,17.8944,7,4,2015,4/7/2015
+12,unwatereded,1187,Termilia amazonia  ,tree,-0.758,-2.178,,,,18.408,7,3,2015,3/7/2015
+12,unwatereded,1187,Termilia amazonia  ,tree,-0.206,-1.163,,,,25.3416,4,5,2015,5/4/2015
+12,unwatereded,1187,Termilia amazonia  ,tree,-0.114,-1.402,,,,36.384,8,9,2015,9/8/2015
+12,unwatereded,1189,Machaerium milleflorum ,lia,-0.221,-2.201,,,,16.3536,4,3,2015,3/4/2015
+12,unwatereded,1189,Machaerium milleflorum ,lia,-0.248,-1.21,,,,16.7816,11,4,2015,4/11/2015
+12,unwatereded,1189,Machaerium milleflorum ,lia,-0.347,-0.627,,,,22.9448,8,5,2015,5/8/2015
+12,unwatereded,1189,Machaerium milleflorum ,lia,-0.073,-1.387,,,,46.1852,8,9,2015,9/8/2015
+12,unwatereded,1190,Callichlamys latifolia  ,lia,-0.176,-1.471,4.3,0.051,84.31372549,,17,10,2015,10/17/2015
+12,unwatereded,1190,Callichlamys latifolia  ,lia,,,,,,,16,3,2016,3/16/2016
+12,unwatereded,1193,Hieronyma alchorneoides,tree,-1.181,-1.252,0.753,0.00439,171.5261959,17.3808,16,3,2016,3/16/2016
+12,unwatereded,1193,Hieronyma alchorneoides,tree,-2.392,-2.35,,,,19.0928,6,4,2015,4/6/2015
+12,unwatereded,1193,Hieronyma alchorneoides,tree,-1.057,-1.302,,,,19.5636,3,3,2015,3/3/2015
+12,unwatereded,1193,Hieronyma alchorneoides,tree,-0.319,-1.077,,,,21.404,6,5,2015,5/6/2015
+12,unwatereded,1193,Hieronyma alchorneoides,tree,-0.033,-0.741,,,,37.7964,8,9,2015,9/8/2015
+12,unwatereded,1193,Hieronyma alchorneoides,tree,-0.076,-1.162,14.5,0.402,36.06965174,,17,10,2015,10/17/2015
+12,unwatereded,1197,Swietenia macrophylla ,tree,-1.872,-3.065,,,,16.0968,10,4,2015,4/10/2015
+12,unwatereded,1197,Swietenia macrophylla ,tree,-2.092,-2.762,,,,20.12,9,3,2015,3/9/2015
+12,unwatereded,1197,Swietenia macrophylla ,tree,-0.181,-1.904,,,,27.182,5,5,2015,5/5/2015
+12,unwatereded,1197,Swietenia macrophylla ,tree,-0.226,-1.534,,,,43.874,8,9,2015,9/8/2015
+12,unwatereded,1198,Maripa pamensis  ,lia,-0.678,-1.28,4.07,0.0277,146.9314079,16.3536,16,3,2016,3/16/2016
+12,unwatereded,1198,Maripa pamensis  ,lia,-0.898,-1.401,,,,17.4664,7,3,2015,3/7/2015
+12,unwatereded,1198,Maripa pamensis  ,lia,-0.578,-1.645,,,,17.98,4,4,2015,4/4/2015
+12,unwatereded,1198,Maripa pamensis  ,lia,-0.337,-1.48,,,,23.2872,6,5,2015,5/6/2015
+12,unwatereded,1198,Maripa pamensis  ,lia,-0.084,-1.043,,,,35.0144,8,9,2015,9/8/2015
+12,unwatereded,1198,Maripa pamensis  ,lia,-0.202,-0.824,11.02,0.197,55.93908629,,17,10,2015,10/17/2015
